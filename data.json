@@ -1,0 +1,227 @@
+   [
+        {
+            "name": "Rolls-Royce Ghost 6.5",
+            "price": "$1500",
+            "doors" : "4",
+            "seats": "5",
+            "TransmissionType": "Automatic",
+            "FuelType": "Petrol",
+            "imageurl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2Fyc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+
+        {
+            "name": "Rolls Royce Phantom",
+            "price": "$1300",
+            "doors" : "4",
+            "seats": "5",
+            "TransmissionType": "Automatic",
+           "FuelType": "Petrol",
+            "imageurl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+
+        {
+            "name": "Mercedes-Benz S-Class",
+            "price": "$1000",
+            "doors" : "4",
+            "seats": "5",
+            "TransmissionType": "Automatic",
+            "FuelType": "Petrol & Diesel",
+            "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/S-Class/6461/Mercedes-Benz-S-Class-AMG-S63-Coupe/1613546728565/front-left-side-47.jpg"
+
+        },
+
+        {
+           
+                "name": "Mercedes-Benz GLA",
+                "price": "$800",
+                "doors" : "4",
+                "seats": "5",
+                "TransmissionType": "Automatic",
+                "FuelType": "Petrol & Diesel",
+
+                "imageurl": "https://stimg2.cardekho.com/images/carNewsEditorImages/userimages/20210423_082912/27058/mercedes-benz0.jpg?tr=w-420"
+    
+            },
+
+
+            {
+           
+                "name": "Mercedes-Benz E-Class",
+                "price": "$1000",
+                "doors" : "4",
+                "seats": "5",
+                "TransmissionType": "Automatic",
+                "FuelType": "Petrol & Diesel",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/E-Class-2020/7406/1583296543179/front-left-side-47.jpg"
+    
+            },
+
+            {
+           
+                "name": "Jaguar F-TYPE",
+                "price": "$1200",
+                "doors" : "2",
+                "seats": "2",
+                "TransmissionType": "Automatic",
+                "FuelType": "Petrol",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/F-TYPE/7809/1588849117308/front-view-118.jpg?tr=w-360"
+    
+            },
+
+            {
+           
+                "name": "Jaguar XE",
+                "price": "$600",
+                "doors" : "4",
+                "seats": "5",
+                "TransmissionType": "Automatic",
+                "FuelType": "Petrol",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Jaguar/XE/6836/1578638648168/front-left-side-47.jpg"
+    
+            },
+
+            {
+           
+                "name": "Toyota Fortuner",
+                "price": "$400",
+                "doors" : "5",
+                "seats": "7",
+                "TransmissionType": "Automatic",
+                "FuelType": "Diesel",
+                "imageurl": "https://c.ndtvimg.com/2021-02/d8b82bs4_2021-toyota-fortuner-facelift_625x300_24_February_21.jpg"
+    
+            },
+
+            {
+           
+                "name": "Toyota Fortuner Legender",
+                "price": "$450",
+                "doors" : "5",
+                "seats": "7",
+                "TransmissionType": "Automatic",
+                "FuelType": "Diesel",
+                "imageurl": "https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=85"
+    
+            },
+
+            {
+           
+                "name": "Mini Cooper",
+                "price": "$450",
+                "doors" : "3",
+                "seats": "4",
+                "TransmissionType": "Automatic",
+                "FuelType": "Petrol",
+                "imageurl": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/34560/cooper-exterior-right-front-three-quarter-2.jpeg?q=85"
+    
+            },
+
+            {
+           
+                "name": "Hyundai i20 Magna 1.2 MT",
+                "price": "$150",
+                "doors" : "5",
+                "seats": "5",
+                "TransmissionType": "Manual,Automatic",
+                "FuelType": "Petrol & Diesel",
+                "imageurl": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/40530/i20-exterior-right-front-three-quarter-5.jpeg?q=85"
+    
+            },
+            {
+           
+                "name": "Hyundai Alcazar",
+                "price": "$250",
+                "doors" : "5",
+                "seats": "6 & 7",
+                "TransmissionType": "Manual,Automatic",
+                "FuelType": "Petrol & Diesel",
+                "imageurl": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/46812/alcazar-exterior-right-front-three-quarter.jpeg?q=85"
+    
+            },
+
+
+            {
+           
+                "name": "Hyundai Creta",
+                "price": "$200",
+                "doors" : "5",
+                "seats": "5",
+                "TransmissionType": "Automatic",
+                "FuelType": "Petrol",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/6775/1584360708758/front-left-side-47.jpg?tr=w-456"
+    
+            },
+
+            {
+           
+                "name": "Hyundai Kona Electric",
+                "price": "$250-300",
+                "doors" : "5",
+                "seats": "5",
+                "TransmissionType": "Automatic",
+                "FuelType": "Electric",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-Kona/6234/1562646651262/front-left-side-47.jpg?tr=w-456"
+    
+            },
+
+            
+            {
+           
+                "name": "Ford EcoSport",
+                "price": "$150-200",
+                "doors" : "5",
+                "seats": "5",
+                "TransmissionType": "Manual",
+                "FuelType": "Diesel",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/EcoSport/7323/1609839628163/front-left-side-47.jpg?tr=w-456"
+    
+            },
+
+            {
+           
+                "name": "Ford Mustang ",
+                "price": "$450",
+                "doors" : "9",
+                "seats": "7",
+                "TransmissionType": "Manual",
+                "FuelType": "Petrol",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Mustang-2021/7939/1595910236308/front-left-side-47.jpg?tr=w-456"
+    
+            },
+
+            
+            {
+           
+                "name": "Audi Q8",
+                "price": "$900-1000",
+                "doors" : "5",
+                "seats": "5",
+                "TransmissionType": "Automatic",
+                "FuelType": "Petrol",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q8/135/1581404410220/front-left-side-47.jpg?tr=w-456"
+    
+            },
+
+
+            {
+           
+                "name": "Land Rover Defender",
+                "price": "$700-1000",
+                "doors" : "5",
+                "seats": "6",
+                "TransmissionType": "Automatic",
+                "FuelType": "Diesel",
+                "imageurl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Defender/7641/1624347789462/front-left-side-47.jpg?tr=w-456"
+    
+            }
+
+
+
+
+
+
+
+    ]
+
+
+
